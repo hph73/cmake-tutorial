@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.12)
+project(MyProject VERSION 1.0.0)
+set(MY_VARIABLE "I am a variable")
+message(STATUS "The variable values is ${MY_VARIABLE}")
+message(STATUS "Project name is ${PROJECT_NAME}")
+message(STATUS "Project version is ${PROJECT_VERSION}")
+add_executable(cmake-good main.cpp)

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cmake-good.dir/main.cpp.o  -o cmake-good  -Wl,-rpath,/home/hpeng/cmake-tutorial/ls3-subdir/build/say-hello ../say-hello/libsay-hello.so 

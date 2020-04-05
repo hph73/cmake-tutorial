@@ -1,0 +1,3 @@
+/home/hpeng/cmake-tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/hpeng/cmake-tutorial/build/CMakeFiles/cmake-good.dir
+/home/hpeng/cmake-tutorial/build/CMakeFiles/edit_cache.dir

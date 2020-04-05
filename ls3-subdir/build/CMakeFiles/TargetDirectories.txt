@@ -1,0 +1,8 @@
+/home/hpeng/cmake-tutorial/ls3-subdir/build/CMakeFiles/rebuild_cache.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/CMakeFiles/edit_cache.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/say-hello/CMakeFiles/rebuild_cache.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/say-hello/CMakeFiles/say-hello.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/say-hello/CMakeFiles/edit_cache.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/hello-exe/CMakeFiles/rebuild_cache.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/hello-exe/CMakeFiles/cmake-good.dir
+/home/hpeng/cmake-tutorial/ls3-subdir/build/hello-exe/CMakeFiles/edit_cache.dir
